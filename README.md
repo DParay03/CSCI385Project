@@ -21,6 +21,8 @@ c. Set the following
 4. Run the Queries listed in Discord
   
 5. Configure settings.py and update the DATABASES section:
+
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
