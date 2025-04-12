@@ -26,9 +26,9 @@ c. Set the following
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'mood_tracker',
-        'USER': 'myuser',
-        'PASSWORD': 'mypassword',
+        'NAME': 'postgres',
+        'USER': 'postgres',
+        'PASSWORD': 'yourpassword',
         'HOST': 'localhost',
         'PORT': '5432',
     }
@@ -39,3 +39,6 @@ In terminal type the following:
 - python manage.py makemigrations
 - python manage.py migrate
 - Python manage.py runserver
+
+7. Enable bootstrap in Django
+In terminal, type: 
