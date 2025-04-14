@@ -40,8 +40,10 @@ In terminal type the following:
 - python manage.py migrate
 - Python manage.py runserver
 
-7. Enable bootstrap in Django
-In terminal, type:
+7. To enable bootstrap in Django:
+- follow instructions on link
+- https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template
+
 
 8. To use Cripsy Forms:
 - pip install django-crispy-forms
