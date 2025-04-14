@@ -41,4 +41,7 @@ In terminal type the following:
 - Python manage.py runserver
 
 7. Enable bootstrap in Django
-In terminal, type: 
+In terminal, type:
+
+8. To use Cripsy Forms:
+- pip install django-crispy-forms
