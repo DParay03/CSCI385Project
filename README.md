@@ -45,5 +45,7 @@ In terminal type the following:
 - https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template
 
 
-8. To use Cripsy Forms:
+8. To use Cripsy Forms (Doesn't work on Python 3.13):
 - pip install django-crispy-forms
+9. To use pillow for images:
+- pip install Pillow
