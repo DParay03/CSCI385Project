@@ -50,4 +50,6 @@ In terminal type the following:
 9. To use pillow for images:
 - pip install Pillow
 10. To support PDF printing for Admin Report
-- pip install WeasyPrint
+- pip install WeasyPrint\
+11. Use matplotlib for Admin Graphing
+  pip install matplotlib
