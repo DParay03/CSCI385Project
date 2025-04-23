@@ -49,3 +49,5 @@ In terminal type the following:
 - pip install django-crispy-forms
 9. To use pillow for images:
 - pip install Pillow
+10. To support PDF printing for Admin Report
+- pip install WeasyPrint
